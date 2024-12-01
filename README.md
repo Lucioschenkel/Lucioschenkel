@@ -1,8 +1,13 @@
+# Intro
+
+Hey there!
+
+I'm a Software Engineer working with automation tools, CI/CD, Kubernetes and AWS. I have roughly eight years of experience working on that landscape, and I'm always looking for opportunities to learn new tools and improve my existing skills.
 
 ## ✉ How to reach me:
 --- 
 
-<div style="display: grid; grid-template-columns: repeat(2, 20%)">
+<div style="display: flex; align-items: center; justify-content: space-between">
 
 <a href="mailto:YourEmail@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
@@ -11,9 +16,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lucioschenkel.Lucioschenkel)
 
-<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 16px">
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Lucioschenkel&count_private=true&show_icons=true&hide=contribs)
+<div style="">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucioschenkel&layout=compact)
 </div>
