@@ -11,9 +11,3 @@ I'm a Software Engineer working with automation tools, CI/CD, Kubernetes, and AW
 I'm hosting a personal Homelab on my local network, making it accessible to the outside world using CloudFlare tunnels. This project uses Flux to manage deployments and GitOps and Sops to manage secrets.
 
 https://github.com/Lucioschenkel/homelab
-
-### Dotfiles 🎛️
-
-I recently had to set up a new system for work from scratch, and I realized I didn't have any automation to facilitate that process. I created a repo to host all of my configuration files and setup scripts so that I can get up and running as quickly as possible with a new machine. This project will probably be an ongoing effort to keep up with the latest changes in my setup.
-
-https://github.com/Lucioschenkel/dotfiles
